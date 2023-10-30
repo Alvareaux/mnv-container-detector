@@ -1,0 +1,4 @@
+mnv-data-container-template~=1.5
+cachetools~=5.3
+requests~=2.31
+redis~=5.0
